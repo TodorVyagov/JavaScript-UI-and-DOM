@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\01.SliderControl\bin\01.SliderControl.dll.config
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\01.SliderControl\bin\01.SliderControl.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\01.SliderControl\bin\01.SliderControl.pdb
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\01.SliderControl\obj\Debug\01.SliderControl.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\01.SliderControl\obj\Debug\01.SliderControl.pdb
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\01.SliderControl\obj\Debug\01.SliderControl.csprojResolveAssemblyReference.cache

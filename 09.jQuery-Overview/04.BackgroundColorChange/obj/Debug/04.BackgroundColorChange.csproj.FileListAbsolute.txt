@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\04.BackgroundColorChange\bin\04.BackgroundColorChange.dll.config
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\04.BackgroundColorChange\bin\04.BackgroundColorChange.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\04.BackgroundColorChange\bin\04.BackgroundColorChange.pdb
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\04.BackgroundColorChange\obj\Debug\04.BackgroundColorChange.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\04.BackgroundColorChange\obj\Debug\04.BackgroundColorChange.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\04.BackgroundColorChange\obj\Debug\04.BackgroundColorChange.pdb

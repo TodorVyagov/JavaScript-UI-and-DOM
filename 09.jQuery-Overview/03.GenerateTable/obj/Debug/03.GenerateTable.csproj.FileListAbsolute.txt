@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\03.GenerateTable\bin\03.GenerateTable.dll.config
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\03.GenerateTable\bin\03.GenerateTable.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\03.GenerateTable\bin\03.GenerateTable.pdb
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\03.GenerateTable\obj\Debug\03.GenerateTable.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\03.GenerateTable\obj\Debug\03.GenerateTable.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\03.GenerateTable\obj\Debug\03.GenerateTable.pdb

@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\02.InsertingDOMElements\bin\02.InsertingDOMElements.dll.config
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\02.InsertingDOMElements\bin\02.InsertingDOMElements.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\02.InsertingDOMElements\bin\02.InsertingDOMElements.pdb
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\02.InsertingDOMElements\obj\Debug\02.InsertingDOMElements.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\09.jQuery-Overview\02.InsertingDOMElements\obj\Debug\02.InsertingDOMElements.pdb
