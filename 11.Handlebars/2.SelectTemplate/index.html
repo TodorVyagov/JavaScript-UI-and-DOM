@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Select Template</title>
+    <script src="handlebars.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+    <div id="select-container"></div>
+    <button id="select-generator-button">Press to generate select menu</button>
+    <script type="text/x-handlebars-template" id="select-template">
+        <select>
+            {{#each items}}
+            <option value="{{value}}">{{text}}</option>
+            {{else}}
+            <option>NO ITEMS!</option>
+            {{/each}}
+        </select>
+    </script>
+</body>
+</html>

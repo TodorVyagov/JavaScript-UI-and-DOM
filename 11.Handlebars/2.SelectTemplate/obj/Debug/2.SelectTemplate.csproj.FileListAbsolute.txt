@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\2.SelectTemplate\bin\2.SelectTemplate.dll.config
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\2.SelectTemplate\bin\2.SelectTemplate.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\2.SelectTemplate\bin\2.SelectTemplate.pdb
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\2.SelectTemplate\obj\Debug\2.SelectTemplate.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\2.SelectTemplate\obj\Debug\2.SelectTemplate.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\2.SelectTemplate\obj\Debug\2.SelectTemplate.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.CreateTableTemplate", "CreateTableTemplate\1.CreateTableTemplate.csproj", "{D5B3175E-4706-41DB-9DE6-79EF86DCFD65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.SelectTemplate", "2.SelectTemplate\2.SelectTemplate.csproj", "{F4E6F55F-9F05-4DB0-B7AF-9BEF0770D88F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B3175E-4706-41DB-9DE6-79EF86DCFD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B3175E-4706-41DB-9DE6-79EF86DCFD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B3175E-4706-41DB-9DE6-79EF86DCFD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B3175E-4706-41DB-9DE6-79EF86DCFD65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E6F55F-9F05-4DB0-B7AF-9BEF0770D88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E6F55F-9F05-4DB0-B7AF-9BEF0770D88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E6F55F-9F05-4DB0-B7AF-9BEF0770D88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E6F55F-9F05-4DB0-B7AF-9BEF0770D88F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

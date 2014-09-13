@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\CreateTableTemplate\bin\CreateTableTemplate.dll.config
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\CreateTableTemplate\bin\CreateTableTemplate.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\CreateTableTemplate\bin\CreateTableTemplate.pdb
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\CreateTableTemplate\obj\Debug\CreateTableTemplate.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\CreateTableTemplate\obj\Debug\CreateTableTemplate.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\11.Handlebars\CreateTableTemplate\obj\Debug\CreateTableTemplate.pdb
