@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\02.Canvas\03.SnakeGame\bin\03.SnakeGame.dll.config
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\02.Canvas\03.SnakeGame\bin\03.SnakeGame.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\02.Canvas\03.SnakeGame\bin\03.SnakeGame.pdb
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\02.Canvas\03.SnakeGame\obj\Debug\03.SnakeGame.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\02.Canvas\03.SnakeGame\obj\Debug\03.SnakeGame.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\02.Canvas\03.SnakeGame\obj\Debug\03.SnakeGame.pdb
