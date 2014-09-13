@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\10.jQueryPlugins\1.DropdownMenu\bin\1.DropdownMenu.dll.config
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\10.jQueryPlugins\1.DropdownMenu\bin\1.DropdownMenu.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\10.jQueryPlugins\1.DropdownMenu\bin\1.DropdownMenu.pdb
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\10.jQueryPlugins\1.DropdownMenu\obj\Debug\1.DropdownMenu.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\10.jQueryPlugins\1.DropdownMenu\obj\Debug\1.DropdownMenu.dll
+D:\Todor\Telerik Software Academy\08.JavaSvript-2UI&DOM\10.jQueryPlugins\1.DropdownMenu\obj\Debug\1.DropdownMenu.pdb
