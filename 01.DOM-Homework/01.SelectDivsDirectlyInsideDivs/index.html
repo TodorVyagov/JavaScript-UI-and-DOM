@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Selecting divs</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1>All results will be printed in the console. Press F12. =)</h1>
+    <h2>getElementByTagName makes background of selected divs red.</h2>
+    <h2>querySelectorAll makes background of selected divs green.(after 1 second to see that exactly the same divs are selected)</h2>
+
+    <div>
+        <p>this is parent div(not selected)</p>
+        <div>
+            <p>this div must be selected</p>
+            <div>
+                <p>this is child of selected div(also directly inside other div)</p>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <p>this is parent div(not selected)</p>
+        <nav>
+            <p>this is nav</p>
+            <div>
+                <p>this div is not directly inside other div!(not selected)</p>
+                <div>
+                    <p>this is child of div(directly inside other div)</p>
+                </div>
+            </div>
+        </nav>
+    </div>
+</body>
+</html>
